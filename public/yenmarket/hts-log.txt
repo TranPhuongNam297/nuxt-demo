@@ -1,0 +1,62 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Nov 2024 15:46:51 at https://yenmarket.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yenmarket.vn/ -O1 "D:\yenmarket\clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:47:00	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://google-shopping.sapoapps.vn/conversion-tracker/event-tag/3272.js?store=yenmarket.mysapo.net
+15:47:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://promotionpopup.sapoapps.vn/genscript/script.js?store=yenmarket.mysapo.net
+15:51:53	Error: 	"Not Found" (404) at link https://yenmarket.vn/s (from https://yenmarket.vn/)
+15:55:50	Error: 	"Not Found" (404) at link https://yenmarket.vn/nam-bao-ngu-trang-tuoi-200g (from https://yenmarket.vn/)
+15:56:45	Error: 	"Not Found" (404) at link https://yenmarket.vn/nam-linh-chi-trang-125g (from https://yenmarket.vn/)
+15:57:05	Error: 	"Not Found" (404) at link https://yenmarket.vn/nho-xanh-hello (from https://yenmarket.vn/)
+15:57:20	Error: 	"Not Found" (404) at link https://yenmarket.vn/tao-envy-s28-s30 (from https://yenmarket.vn/)
+15:57:20	Error: 	"Not Found" (404) at link https://yenmarket.vn/quyt-uc-aph-size-48 (from https://yenmarket.vn/)
+15:57:20	Error: 	"Not Found" (404) at link https://yenmarket.vn/cam-ai-cap-mafa-s40-1kg (from https://yenmarket.vn/)
+15:57:20	Error: 	"Not Found" (404) at link https://yenmarket.vn/tao-rockit-nz-s48 (from https://yenmarket.vn/)
+15:57:36	Error: 	"Not Found" (404) at link https://yenmarket.vn/quyt-uc-aph-size-36 (from https://yenmarket.vn/)
+15:57:36	Error: 	"Not Found" (404) at link https://yenmarket.vn/nho-xanh-uc (from https://yenmarket.vn/)
+15:57:36	Error: 	"Not Found" (404) at link https://yenmarket.vn/nho-den-uc-i-1kg (from https://yenmarket.vn/)
+15:57:52	Error: 	"Not Found" (404) at link https://yenmarket.vn/dua-de-dac-mat (from https://yenmarket.vn/)
+15:57:52	Error: 	"Not Found" (404) at link https://yenmarket.vn/cherry-my (from https://yenmarket.vn/)
+16:08:43	Error: 	"Not Found" (404) at link https://yenmarket.vn/dau-ca-hoi (from https://yenmarket.vn/)
+16:12:04	Error: 	"Not Found" (404) at link https://yenmarket.vn/engawa-vay-ca-bon-i-500gr (from https://yenmarket.vn/)
+16:24:07	Error: 	"Not Found" (404) at link https://yenmarket.vn/ca-thu-dao-mirin-mot-nang-goi-3-con-180g (from https://yenmarket.vn/)
+16:25:43	Error: 	"Not Found" (404) at link https://yenmarket.vn/ca-moi-don-trung-ca-tuyet-iwashi-mentaiko-250-300gr (from https://yenmarket.vn/)
+16:48:47	Error: 	"Not Found" (404) at link https://yenmarket.vn/ruou-tsukinoi (from https://yenmarket.vn/)
+16:51:47	Error: 	"Not Found" (404) at link https://yenmarket.vn/ca-hoi-nauy (from https://yenmarket.vn/)
+16:52:38	Error: 	"Not Found" (404) at link https://yenmarket.vn/he-thong-cua-hang (from https://yenmarket.vn/)
+16:52:38	Error: 	"Not Found" (404) at link https://yenmarket.vn/a (from https://connect.facebook.net/en_US/fbevents.js)
+16:52:38	Error: 	"Not Found" (404) at link https://yenmarket.vn/POST (from https://connect.facebook.net/en_US/fbevents.js)
+16:52:38	Error: 	"Not Found" (404) at link https://yenmarket.vn/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+16:52:38	Error: 	"Not Found" (404) at link https://yenmarket.vn/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+16:52:38	Error: 	"Not Found" (404) at link https://yenmarket.vn/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+16:52:47	Error: 	"Not Found" (404) at link https://yenmarket.vn/thuc-don-dinh-duong (from https://yenmarket.vn/new-product)
+17:13:00	Error: 	"Forbidden" (403) at link https://bioplanet.vn/wp-content/uploads/2020/03/Cá-hồi-Nauy-tươi-phi-lê-nửa-miếng-phần-đuôi_2-1.jpg (from https://yenmarket.vn/duoi-ca-hoi-fillet-nauy-salmon-tail-fillet)
+19:42:15	Error: 	"Not Found" (404) at link https://yenmarket.vn/collections/he-thong-cua-hang (from https://yenmarket.vn/collections/all)
+19:44:01	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/compact/100/382/166/products/images-4.jpg?v=1683822811970 (from https://yenmarket.vn/sot-mi-y-thit-bam-ca-chua-hachi-260g)
+19:44:06	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://dreamshop.vn/UserFiles/files/Thực phẩm - Hàng tiêu dùng/Gia vị/Nước dùng/sốt mỳ ý Hachi/sot my y Hachi thit bam 2.jpg (from https://yenmarket.vn/sot-mi-y-thit-bam-ca-chua-hachi-260g)
+19:44:06	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/grande/100/382/166/products/images-3.jpg?v=1683822657490 (from https://yenmarket.vn/sot-dau-hu-tu-xuyen-miyagi-200g)
+19:44:16	Warning: 	Retry after error -4 (Connect Error) at link https://bizweb.dktcdn.net/100/382/166/products/images-3.jpg?v=1683822657490 (from https://yenmarket.vn/sot-dau-hu-tu-xuyen-miyagi-200g)
+19:44:24	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/large/100/382/166/products/images-3.jpg?v=1683822657490 (from https://yenmarket.vn/sot-dau-hu-tu-xuyen-miyagi-200g)
+19:44:26	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/compact/100/382/166/products/images-3.jpg?v=1683822657490 (from https://yenmarket.vn/sot-dau-hu-tu-xuyen-miyagi-200g)
+19:44:29	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/grande/100/382/166/products/muoi-an-kobe.jpg?v=1684227484247 (from https://yenmarket.vn/muoi-ngon-kobe-bussan-300g)
+19:44:30	Warning: 	Retry after error -4 (Connect Error) at link https://bizweb.dktcdn.net/100/382/166/products/muoi-an-kobe.jpg?v=1684227484247 (from https://yenmarket.vn/muoi-ngon-kobe-bussan-300g)
+19:44:37	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/large/100/382/166/products/muoi-an-kobe.jpg?v=1684227484247 (from https://yenmarket.vn/muoi-ngon-kobe-bussan-300g)
+19:44:43	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/compact/100/382/166/products/muoi-an-kobe.jpg?v=1684227484247 (from https://yenmarket.vn/muoi-ngon-kobe-bussan-300g)
+19:44:45	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/grande/100/382/166/products/duong-mitsui.png?v=1683821836710 (from https://yenmarket.vn/duong-trang-mitsui-1kg)
+19:44:46	Warning: 	Retry after error -4 (Connect Error) at link https://bizweb.dktcdn.net/100/382/166/products/duong-mitsui.png?v=1683821836710 (from https://yenmarket.vn/duong-trang-mitsui-1kg)
+19:44:49	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/large/100/382/166/products/duong-mitsui.png?v=1683821836710 (from https://yenmarket.vn/duong-trang-mitsui-1kg)
+19:44:55	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/compact/100/382/166/products/duong-mitsui.png?v=1683821836710 (from https://yenmarket.vn/duong-trang-mitsui-1kg)
+19:45:00	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/grande/100/382/166/products/download-2.jpg?v=1683821175107 (from https://yenmarket.vn/mi-chinh-umami-kobe-bussan-1000g)
+19:45:16	Warning: 	Retry after error -4 (Connect Error) at link https://bizweb.dktcdn.net/100/382/166/products/download-2.jpg?v=1683821175107 (from https://yenmarket.vn/mi-chinh-umami-kobe-bussan-1000g)
+19:45:16	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/large/100/382/166/products/download-2.jpg?v=1683821175107 (from https://yenmarket.vn/mi-chinh-umami-kobe-bussan-1000g)
+19:45:22	Warning: 	Retry after error -4 (Connect Error) at link bizweb.dktcdn.net/thumb/compact/100/382/166/products/download-2.jpg?v=1683821175107 (from https://yenmarket.vn/mi-chinh-umami-kobe-bussan-1000g)
+19:46:07	Error: 	"Not Found" (404) at link https://yenmarket.vn/www.facebook.com/YenMarketVN (from https://yenmarket.vn/dieu-khoan-su-dung)
+19:51:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://dreamshop.vn/UserFiles/files/Thực phẩm - Hàng tiêu dùng/Gia vị/Nước dùng/sốt mỳ ý Hachi/sot my y Hachi thit bam 2.jpg (from https://yenmarket.vn/sot-mi-y-thit-bam-ca-chua-hachi-260g)
+19:52:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://dreamshop.vn/UserFiles/files/Thực phẩm - Hàng tiêu dùng/Gia vị/Nước dùng/sốt mỳ ý Hachi/sot my y Hachi thit bam 2.jpg (from https://yenmarket.vn/sot-mi-y-thit-bam-ca-chua-hachi-260g)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 hours 5 minutes 37 seconds : 2550 links scanned, 2499 files written (324034697 bytes overall) [274504199 bytes received at 18626 bytes/sec], 68435686 bytes transferred using HTTP compression in 547 files, ratio 20%, 1.9 requests per connection
+(30 errors, 21 warnings, 0 messages)

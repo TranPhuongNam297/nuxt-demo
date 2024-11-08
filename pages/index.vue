@@ -1,23 +1,26 @@
 <template>
-  <div>
-      <Header />
-      <section>
-        <h1>Welcome to Yen Market</h1>
-        <p>Explore our exclusive products!</p>
-      </section>
-      <Footer />
+    <div style="width: 100%; height: 100%;">
+      <iframe
+        :src="iframeSrc"
+        width="100%"
+        height="800px"
+        style="border: none;"
+        title="Embedded HTML Content"
+      ></iframe>
     </div>
-</template>
-
-<script>
-  import Header from '~/components/Header.vue';
-  import Footer from '~/components/Footer.vue';
+  </template>
   
+  <script>
   export default {
-    components: { Header, Footer },
+    data() {
+      return {
+        iframeSrc: `/yenmarket/yenmarket.vn/index.html`,
+      };
+    },
   };
   </script>
   
   <style scoped>
-
+  /* Tùy chỉnh CSS cho iframe nếu cần */
   </style>
+  
